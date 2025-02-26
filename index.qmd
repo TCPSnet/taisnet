@@ -1,7 +1,5 @@
 ---
-title: "daviderossetti"
+title: "www.daviderossetti.net"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Coming soon...

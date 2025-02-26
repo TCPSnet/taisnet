@@ -33,7 +33,7 @@ git commit -m "initial commit"
 git push origin master
 
 # --- git commit + push
-git commit -m " posts/2025-02-13-spunti-ac/*" && git push origin master
+git commit -m "1st deploy" && git push origin master
 
 # --- git add u + commit + push
 git add -u && git commit -a -m "small rev" && git push origin master
