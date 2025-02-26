@@ -3,7 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "daviderossetti"
+  # cookie-consent:
+  #   type: implied
+  #   style: standalone
+  #   palette: light
+  google-analytics:
+    tracking-id: "G-TEC84V5EZD"
+    anonymize-ip: true
+  title: "Davide Rossetti"
   navbar:
     left:
       - href: index.qmd
