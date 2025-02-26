@@ -27,8 +27,9 @@ git add images/*
 
 # --- git commit
 # git commit -m "theme 🎨"
+git commit -m "initial commit"
 
-# # --- git push
+# --- git push
 git push origin master
 
 # --- git commit + push
@@ -37,8 +38,25 @@ git commit -m " posts/2025-02-13-spunti-ac/*" && git push origin master
 # --- git add u + commit + push
 git add -u && git commit -a -m "small rev" && git push origin master
 
+
+
+
+
+
+
+
+
+
 #===================== (IGNORE a file accidentally committed in the past) =====================#
 # add .env file to .gitignore
-echo "accident.txt" >> .gitignore
+echo "_site" >> .gitignore
 # tell Git NOT to track this file (it gets removed from the index, but stays local system)
 git rm --cached accident.txt
+
+
+#===================== (Pushing and EXISTING local repo to GITHUB) =====================#
+
+# 1) Adds the GitHub repository as the remote repository (i.e. connects your local repo to the remote repo)
+git remote add origin git@github.com:Lulliter/daviderossetti.git
+# 2) Pushes the master branch to the remote GitHub repository
+git push -u origin master
