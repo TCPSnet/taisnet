@@ -27,7 +27,7 @@ git add images/*
 
 # --- git commit
 # git commit -m "theme 🎨"
-git commit -m "initial commit"
+git commit -m "domain 🌐"
 
 # --- git push
 git push origin master
