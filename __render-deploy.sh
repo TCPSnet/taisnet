@@ -1,7 +1,7 @@
 # ====== Font Awesome Extension for Quarto
 # (`quarto install` o `quarto add` )
-#quarto install quarto-ext/fontawesome # https://github.com/quarto-ext/fontawesome#readme
-#quarto install extension shafayetShafee/bsicons # https://icons.getbootstrap.com/#icons
+# quarto install quarto-ext/fontawesome # https://github.com/quarto-ext/fontawesome#readme
+# quarto install extension shafayetShafee/bsicons # https://icons.getbootstrap.com/#icons
 #quarto install extension schochastics/academicons # https://jpswalsh.github.io/academicons/
 #quarto add mcanouil/quarto-iconify
 
@@ -27,7 +27,7 @@ git add images/*
 
 # --- git commit
 # git commit -m "theme 🎨"
-git commit -m "Google Analytics 📊"
+git commit -m "CNAME"
 
 # --- git push
 git push origin master

@@ -1,0 +1,105 @@
+/*----- FONTS -----*/
+// import google fonts
+@import url('https://fonts.googleapis.com/css2?family=Lato');
+@import url('https://fonts.googleapis.com/css2?family=Chivo');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&family=Inconsolata:wght@200&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+// Andrew Heiss
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Fira+Sans+Condensed:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+/*-- scss:defaults --*/
+
+// Define Color variables `$var-name: value;`
+$body-text-color: #122531;
+$h1-text-color: #1f4156;
+$h2-text-color: #2D5D7B;
+$accent-text-color: #5EBEE7;
+$footer-bkg-color: #abbeca; //#ffffff61;
+$link-text-color: #A14155;
+$link-hover-color: #e75e7a;
+$yellow-color: #e7cc5e;
+$yellow-dark-color: #b2941a;
+$background-color: #f8f9fa;
+$anti-flash-white: #EAECEC;
+$nav-link-color: #eaeff2;
+$nav-hover-color: #d5dfe5;
+
+
+/*-- scss:rules --*/
+
+// ---- Navigation
+// (solo website name)
+.navbar-brand {
+  //font-family: "Overpass", mono;
+  font-size: 1.75rem;
+  font-weight: 900;
+  white-space: nowrap;
+  //color: $h1-text-color;
+}
+// (rest of the navbar)
+.navbar {
+  font-family: "Overpass", mono;
+  font-size: 1.25rem;
+  font-weight: 600;
+  //background-color: $theme_main;
+
+  /* General link styles (excluding specific cases) */
+  a {
+    color:$nav-link-color; // Default text color
+     &:hover {
+      color: $nav-hover-color; // Hover text color
+      text-decoration: underline;
+    }
+  }
+}
+
+// footer
+.nav-footer {
+  background-color: $footer-bkg-color;
+
+  // Footer text (non-link)
+  p {
+    color: $body-text-color;
+    //font-size: 14px;
+    //margin: 0;
+    //line-height: 1.6; // Slightly increased line-height for readability
+  }
+
+  // Footer links
+  a {
+    color: $link-text-color; // Muted teal for default link color
+    text-decoration: none; // Remove underline by default
+    font-weight: 500; // Slightly bold for emphasis
+
+    &:hover {
+      color: $link-hover-color; // Darker teal on hover for subtle contrast
+      text-decoration: underline; // Add underline on hover for clarity
+    }
+
+    &:active {
+      color: $yellow-dark-color; // Slightly brighter color when active
+      text-decoration: none;
+
+    }
+  }
+}
+
+
+
+
+// Body text
+h1 {
+  color: $h1-text-color;
+}
+h2 {
+  color: $h2-text-color;
+}
+p {
+  color: $body-text-color;
+}
+
+// Website background color
+body {
+  background-color: white;
+}

@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "!ignored-dir/"
+
+execute:
+  freeze: auto  # Re-render only when source changes
 
 website:
   # cookie-consent:
@@ -11,17 +17,47 @@ website:
     tracking-id: "G-W9H0V3N3EJ"
     anonymize-ip: true
   title: "Davide Rossetti"
+  description: "Personal website of Davide Rossetti"
+  site-url: "https://daviderossetti.net"
+  repo-url: "https://github.com/Lulliter/daviderossetti"
+#  repo-actions: [edit, issue]
+  favicon: images/net2.png
+  search: false # no magnifier on navbar
+
+  page-footer:
+    left: |
+      {{< fa copyright >}} Davide Rossetti 2025
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)
+#      [Code at {{< fa brands github >}} GitHub]({{< var websites.gh_repo >}})
+
   navbar:
-    left:
+    # logo: images/TAIS.png
+
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        icon: house-door-fill
+        text: " "
+      - href: about.qmd
+        text: "About"
+      - href: portfolio/index.qmd
+        text: "Portfolio"
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
     toc: true
-
+    toc-location: "left"
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    fontsize: 1em
+    theme: theme/davides_theme.scss
+    # css: theme/styles.css
+    ##----- code highlighting style
+    highlight-style: monokai # atom-one # github # dracula
+    mainfont: "Lato"
+    monofont: "Fira Mono"
 
 

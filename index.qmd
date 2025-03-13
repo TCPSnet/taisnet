@@ -1,5 +1,13 @@
 ---
-title: "www.daviderossetti.net"
+toc: false
+format: 
+  html: 
+    page-layout: full
 ---
 
-Coming soon...
+<!-- https://quarto.org/docs/output-formats/page-layout.html -->
+> [*Website in construction...*]{style="color:#A14155; font-size: 1.5em;"}
+
+![](images/rete.jpg)
+
+
