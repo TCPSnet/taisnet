@@ -24,6 +24,7 @@ $background-color: #f8f9fa;
 $anti-flash-white: #EAECEC;
 $nav-link-color: #ecfcff;
 $nav-hover-color: #d5dfe5;
+$code-color: #24857a;
 
 
 /*-- scss:rules --*/
@@ -85,6 +86,11 @@ $nav-hover-color: #d5dfe5;
   }
 }
 
+// Website background color
+body {
+  background-color: white;
+}
+
 
 // Body text
 h1 {
@@ -97,9 +103,9 @@ p {
   color: $body-text-color;
 }
 
-// Website background color
-body {
-  background-color: white;
+// Code color
+code {
+  color: $code-color;
 }
 
 // Links

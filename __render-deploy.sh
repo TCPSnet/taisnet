@@ -26,7 +26,7 @@ git add docs/* # specific
 git add images/*
 
 # --- git commit
-# git commit -m "theme 🎨"
+# git commit -m "playing wiht scss theme 🎨"
 git commit -m "tabs"
 
 # --- git push

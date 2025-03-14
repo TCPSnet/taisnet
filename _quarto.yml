@@ -30,7 +30,7 @@ website:
     position: below-navbar
   page-footer:
     left: |
-      {{< fa copyright >}} Davide Rossetti 2025
+      {{< fa copyright >}} Copyright 2025, Davide Rossetti
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)
 #      [Code at {{< fa brands github >}} GitHub]({{< var websites.gh_repo >}})
