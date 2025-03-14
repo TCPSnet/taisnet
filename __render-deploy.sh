@@ -27,7 +27,7 @@ git add images/*
 
 # --- git commit
 # git commit -m "theme 🎨"
-git commit -m "CNAME"
+git commit -m "tabs"
 
 # --- git push
 git push origin master

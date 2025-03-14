@@ -22,7 +22,7 @@ $yellow-color: #e7cc5e;
 $yellow-dark-color: #b2941a;
 $background-color: #f8f9fa;
 $anti-flash-white: #EAECEC;
-$nav-link-color: #eaeff2;
+$nav-link-color: #ecfcff;
 $nav-hover-color: #d5dfe5;
 
 
@@ -44,7 +44,7 @@ $nav-hover-color: #d5dfe5;
   font-weight: 600;
   //background-color: $theme_main;
 
-  /* General link styles (excluding specific cases) */
+  /* Navbar link styles (excluding specific cases) */
   a {
     color:$nav-link-color; // Default text color
      &:hover {
@@ -86,8 +86,6 @@ $nav-hover-color: #d5dfe5;
 }
 
 
-
-
 // Body text
 h1 {
   color: $h1-text-color;
@@ -102,4 +100,33 @@ p {
 // Website background color
 body {
   background-color: white;
+}
+
+// Links
+a {
+  color: $link-text-color;
+  text-decoration: none;
+
+  &:hover {
+    color: $link-hover-color;
+    text-decoration: underline;
+  }
+}
+
+// Links of contacts in YAML
+body .about-links .about-link {
+  color: $link-text-color !important;  /* Change this to your preferred color */
+  font-size: 2rem;
+  text-decoration: none;  /* Optional: Remove underline */
+  background-color: $background-color;  /* Optional: Add background color */
+  padding: 15px 15px;  /* Add padding for button-like appearance */
+  border-radius: 5px;  /* Optional: Add border radius for rounded corners */
+  display: inline-block;  /* Ensure the link behaves like a button */
+}
+
+body .about-links .about-link:hover {
+  color: $link-hover-color !important;  /* Change hover color */
+  font-weight: bold;  /* Optional: Make links bold */
+  background-color: $background-color; /* Change background color on hover */
+  text-decoration: underline;  /* Optional: Add underline on hover */
 }

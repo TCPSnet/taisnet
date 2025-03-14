@@ -1,13 +1,48 @@
 ---
+title: ""
+about:
+  id: hero-heading #about-block 
+  template: trestles # jolla
+  image: images/surfer.jpg
+  links:
+    # - icon: file-pdf
+    #   text: CV (tbd)
+    #   href: https://www.linkedin.com/in/luisa-m-mimmi/  
+    - icon: envelope
+      text: Email
+      href: mailto:tais@tiscali.it
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/davide-rossetti-a13909b/    
+    # - text: "{{< fa brands google-scholar >}} Google Scholar"
+    # - text: "{{< ai google-scholar >}} Google Scholar"
+    #   href: https://scholar.google.com/citations?user=OBYla5gAAAAJ&hl=en&oi=ao
+    # - text: "{{< ai researchgate >}} Research Gate" # fa brands researchgate
+    #   href: https://www.researchgate.net/profile/Luisa-Mimmi
+    # - text: "{{< ai orcid >}} Orcid"
+    #   href: https://orcid.org/0000-0002-2244-8282
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com/Lulliter
 toc: false
-format: 
-  html: 
-    page-layout: full
 ---
+<!-- [*Website under construction...*]{style="color:#A14155; font-size: 1.5em;"} -->
 
-<!-- https://quarto.org/docs/output-formats/page-layout.html -->
-> [*Website in construction...*]{style="color:#A14155; font-size: 1.5em;"}
+<!-- ESEMPI  -->
 
-![](images/rete.jpg)
+<!-- + https://bensoltoff.com/about/  -->
+<!-- + https://albert-rapp.de/ -->
+<!-- https://tanyaviz.com/about/ -->
 
+::: {#hero-heading}
 
+## Welcome to my personal page
+
+I am a dynamic entrepreneur in the textile industry, a sports enthusiast, and a passionate music lover. With 25 years of experience in the production of technical fabrics for industrial applications, aquaculture, and agriculture, I have built a strong network of relationships that connect clients and partners in a trusted market. I see challenges as opportunities for personal and professional growth.
+
+Learn more about my experience through past projects and partnerships at [this page](https://daviderossetti.net/portfolio/)
+
+[I am open to collaborating on new ventures in managerial or commercial roles within my field of expertise.]{style="color: #009ff5; font-weight: bold;"}
+<!-- If you want to work with me as a collaborator, supervisor, instructor, or public speaker, drop me a message: -->
+
+:::
