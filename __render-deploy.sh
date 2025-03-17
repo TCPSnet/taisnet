@@ -33,7 +33,7 @@ git commit -m "tabs"
 git push origin master
 
 # --- git commit + push
-git commit -m "new Google tag" && git push origin master
+git commit -m "playing wiht scss theme 🎨 2" && git push origin master
 
 # --- git add u + commit + push
 git add -u && git commit -a -m "small rev" && git push origin master
