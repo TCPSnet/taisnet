@@ -55,6 +55,30 @@ $code-color: #24857a;
   }
 }
 
+// TOC links (specifically scoped to avoid affecting the header navigation bar)
+#TOC .nav-link {
+  color: $link-text-color !important;  /* Default link color */
+  text-decoration: none;  /* Remove underline */
+
+  &:hover {
+    color: $link-hover-color !important;  /* Hover color */
+    text-decoration: none;  /* Optional: underline on hover */
+  }
+
+  &:active {
+    color: $yellow-dark-color !important;  /* Active link color */
+    text-decoration: underline;
+  }
+}
+
+// Active TOC link (when the link is active)
+#TOC .nav-link.active {
+  color: $yellow-dark-color !important;  /* Highlight active link */
+  font-weight: bold;  /* Optional: Make active link bold */
+  text-decoration: none;  /* Remove underline for active link */
+}
+
+
 // footer
 .nav-footer {
   background-color: $footer-bkg-color;
@@ -136,3 +160,4 @@ body .about-links .about-link:hover {
   background-color: $background-color; /* Change background color on hover */
   text-decoration: underline;  /* Optional: Add underline on hover */
 }
+
