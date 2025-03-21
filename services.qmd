@@ -1,0 +1,9 @@
+---
+toc: false
+format: 
+  html: 
+    page-layout: full
+---
+
+<!-- https://quarto.org/docs/output-formats/page-layout.html -->
+<!-- > [*Website under construction...*]{style="color:#A14155; font-size: 1.5em;"} -->

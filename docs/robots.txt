@@ -1,1 +1,1 @@
-Sitemap: {{< var websites.web_site >}}/sitemap.xml
+Sitemap: https://daviderossetti.net/sitemap.xml

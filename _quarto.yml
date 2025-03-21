@@ -17,8 +17,8 @@ website:
     anonymize-ip: true
   title: "Davide Rossetti"
   description: "Personal website of Davide Rossetti"
-  site-url: "{{< var websites.web_site >}}" # "https://daviderossetti.net"
-  repo-url: "{{< var websites.gh_repo >}}" # "https://github.com/Lulliter/daviderossetti"
+  site-url: "https://daviderossetti.net"
+  repo-url: "https://github.com/Lulliter/daviderossetti"
 #  repo-actions: [edit, issue]
   favicon: images/net2.png
   search: false # no magnifier on navbar
@@ -33,7 +33,7 @@ website:
       {{< fa copyright >}} Copyright 2025, Davide Rossetti
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) <br>
-      [Code at {{< fa brands github >}} GitHub]({{< var websites.gh_repo >}})
+#      [Code at {{< fa brands github >}} GitHub]({{< var websites.gh_repo >}})
 
   navbar:
     # logo: images/TAIS.png
@@ -41,11 +41,15 @@ website:
     right:
       - href: index.qmd
         icon: house-door-fill
-        text: " "
+        text: "Home"
+      - href: services.qmd
+        icon: people-fill
+        text: "Services"
       - href: portfolio/index.qmd
-        text: "Portfolio"
-      - href: news.qmd
-        text: "News"
+        icon: globe
+        text: "Network"
+      # - href: news.qmd
+      #   text: "News"
 
 
 

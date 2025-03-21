@@ -85,15 +85,17 @@ gtag('config', 'G-W9H0V3N3EJ', { 'anonymize_ip': true});
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> <i class="bi bi-house-door-fill" role="img">
 </i> 
-<span class="menu-text"> </span></a>
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./portfolio/index.html"> 
-<span class="menu-text">Portfolio</span></a>
+    <a class="nav-link" href="./services.html"> <i class="bi bi-people-fill" role="img">
+</i> 
+<span class="menu-text">Services</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./news.html" aria-current="page"> 
-<span class="menu-text">News</span></a>
+    <a class="nav-link" href="./portfolio/index.html"> <i class="bi bi-globe" role="img">
+</i> 
+<span class="menu-text">Network</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -214,7 +216,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("?var:websites\.web_site");
+      var filterRegex = new RegExp("https:\/\/daviderossetti\.net");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -551,7 +553,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>Made with <i class="fa-brands fa-r-project" aria-label="r-project"></i> and <a href="https://quarto.org/">Quarto</a> <br> <a href="https://github.com/Lulliter/daviderossetti">Code at <i class="fa-brands fa-github" aria-label="github"></i> GitHub</a></p>
+<p>Made with <i class="fa-brands fa-r-project" aria-label="r-project"></i> and <a href="https://quarto.org/">Quarto</a> <br></p>
 </div>
   </div>
 </footer>
