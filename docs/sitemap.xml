@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://daviderossetti.net/services.html</loc>
-    <lastmod>2025-03-21T11:26:04.645Z</lastmod>
+    <lastmod>2025-03-21T14:48:16.859Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviderossetti.net/network/index.html</loc>
+    <lastmod>2025-03-21T14:38:42.733Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviderossetti.net/index.html</loc>
+    <lastmod>2025-03-21T14:45:22.320Z</lastmod>
   </url>
   <url>
     <loc>https://daviderossetti.net/news.html</loc>
     <lastmod>2025-03-14T21:57:44.439Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daviderossetti.net/index.html</loc>
-    <lastmod>2025-03-14T22:40:15.121Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daviderossetti.net/portfolio/index.html</loc>
-    <lastmod>2025-03-21T12:28:00.753Z</lastmod>
   </url>
 </urlset>

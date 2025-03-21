@@ -27,7 +27,7 @@ git add images/*
 
 # --- git commit
 # git commit -m "playing wiht scss theme 🎨"
-git commit -m "tabs"
+git commit -m "new pages"
 
 # --- git push
 git push origin master

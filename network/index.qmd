@@ -1,5 +1,5 @@
 ---
-title: "Il network industriale"
+title: "My industrial network"
 #subtitle: "..."
 title-block-banner: "#5EBEE7"
 title-block-banner-color: body
@@ -27,11 +27,11 @@ freeze: true
 </div>
 
 
-# Azienda manifatturiera di reti e tessuti tecnici
+# Manufacture of technical fabrics and netting
 
 [www.rossettinet.com](http://www.rossettinet.com/)  | ***"We follow the net"***<br><br>
 <!-- *We follow the net* -->
-Protagonisti nel proporre la rete come risposta/soluzione a ogni esigenza di contenimento, raccolta, separazione, movimentazione, protezione, design,  rintracciabile nell’uso quotidiano e nei processi industriali
+A leading company in offering net-based solutions for all needs related to containment, collection, separation, handling, protection, and design — with applications found in both everyday use and industrial processes.
 
 :::
 
@@ -45,13 +45,11 @@ Protagonisti nel proporre la rete come risposta/soluzione a ogni esigenza di con
   </a>
 </div>
 
-# Fabbricazione di tubolari in rete e tessuti tecnici
+# Production of net sleeves and technical fabrics
 
 [www.taisnet.com](http://www.taisnet.com/) | ***"Net passion"***<br><br>
-**T**ubolari in rete e tessuti tecnici prodotti con la tecnologia della “maglieria in catena” (Raschel). <br>
-**A**pplicazioni <br>
-**I**ndustriali <br>
-**S**peciali
+Specializing in tubular nets made using Raschel warp knitting technology (*"maglieria in catena"*).  
+Supplier of technical fabrics for a wide range of industrial and special applications.
 
 :::
 

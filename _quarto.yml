@@ -42,12 +42,12 @@ website:
       - href: index.qmd
         icon: house-door-fill
         text: "Home"
+      - href: network/index.qmd
+        icon: globe
+        text: "Network"
       - href: services.qmd
         icon: people-fill
         text: "Services"
-      - href: portfolio/index.qmd
-        icon: globe
-        text: "Network"
       # - href: news.qmd
       #   text: "News"
 

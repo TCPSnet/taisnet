@@ -1,9 +1,45 @@
 ---
-toc: false
-format: 
-  html: 
-    page-layout: full
+title: "Services I offer"
+#subtitle: "..."
+title-block-banner: "#5EBEE7"
+title-block-banner-color: body
+toc: true
+format: html
+  # html: 
+  #   page-layout: full
+freeze: true
 ---
 
 <!-- https://quarto.org/docs/output-formats/page-layout.html -->
 <!-- > [*Website under construction...*]{style="color:#A14155; font-size: 1.5em;"} -->
+
+## Temporary Management
+
+<!-- https://www.paolopenzo.it/area-temporary-management/ -->
+
+<!-- Propongo collaborazioni a progetto, affiancando team interni, condividendo iniziative e trasferendo nel contempo competenze, senza interruzione o stravolgimenti della normale operatività. Specificamente, posso offrire supporto in: -->
+
+<!-- + aerea vendite, incluso nel consolidamento della rete di partner strategici. -->
+<!-- + esplorazione di nuovi mercati, in Italia e all'estero -->
+<!-- + gestione delle attività di immissione di un nuovo prodotto o servizio -->
+<!-- + area acquisti, con consulenza nella ricerca fornitori -->
+
+<!-- Negli ultimi 25 anni, ho acquisito esperienze nei settori di applicazione dei tessuti tecnici (classificazione Techtextil). Provengo dal mondo della pesca (professionale e sportiva), dell’acquacoltura e della nautica (diporto e cantieristica). -->
+
+
+I’m currently open to project-based collaborations, offering hands-on support to internal teams while sharing initiatives and transferring know-how—without disrupting daily operations.
+
+I can contribute to:
+
++ **sales development**, including the consolidation of strategic partner networks
++ **exploration of new markets**, in Italy and internationally
++ **management** of product or service launches
++ **procurement** processes, including supplier sourcing and evaluation
+
+With 25 years of experience across multiple technical textile applications (Techtextil classification), I bring a background rooted in the fishing (both sport and professional), aquaculture, and nautical sectors (recreational boating and shipbuilding).
+
+I'm keen to collaborate with companies that value experience, adaptability, and a pragmatic approach to innovation.
+
+## Sales & Marketing Management
+
+xxxxxxxx
