@@ -17,7 +17,7 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/davide-rossetti-a13909b/
     - icon: file-pdf
-      text: CV (Italian)
+      text: CV
       href: images/resume_nofoto.pdf         
     # - text: "{{< fa brands google-scholar >}} Google Scholar"
     # - text: "{{< ai google-scholar >}} Google Scholar"
@@ -47,11 +47,11 @@ I am a dynamic Italian entrepreneur in the textile industry, a sports enthusiast
 
 With 25 years of experience in the production of technical fabrics for industrial applications, aquaculture, and agriculture, I have built a strong network of relationships that links clients and partners in Italy and Europe. I see challenges as opportunities for personal and professional growth.
 
-Learn more about my expertise and the reach of my industrial network [here](https://daviderossetti.net/network/).
+Learn more about my expertise and the reach of my industrial network [**here**](https://daviderossetti.net/network/).
 
 I am based in Pavia (near Milan, in Italy) where I live with my family.  
 
-[I am open to collaborating on new ventures in managerial or commercial [roles](https://daviderossetti.net/services) within my field of expertise.]{style="color: #009ff5; font-weight: bold; height:75%"}
+[I am open to collaborating on new ventures in managerial or commercial [**roles**](https://daviderossetti.net/services) within my field of expertise.]{style="color: #009ff5; font-weight: bold; height:75%"}
 <!-- If you want to work with me as a collaborator, supervisor, instructor, or public speaker, drop me a message: -->
 
 :::

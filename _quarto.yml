@@ -41,7 +41,10 @@ website:
     right:
       - href: index.qmd
         icon: house-door-fill
-        text: "Home"
+        text: " "
+      # - href: index.qmd
+      #   icon: house-door-fill
+      #   text: "Home"
       - href: network/index.qmd
         icon: globe
         text: "Network"

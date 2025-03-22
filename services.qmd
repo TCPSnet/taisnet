@@ -13,7 +13,7 @@ freeze: true
 <!-- https://quarto.org/docs/output-formats/page-layout.html -->
 <!-- > [*Website under construction...*]{style="color:#A14155; font-size: 1.5em;"} -->
 
-## Temporary Management
+## Temporary Sales Manager
 
 <!-- https://www.paolopenzo.it/area-temporary-management/ -->
 
@@ -40,6 +40,6 @@ With 25 years of experience across multiple technical textile applications (Tech
 
 I'm keen to collaborate with companies that value experience, adaptability, and a pragmatic approach to innovation.
 
-## Sales & Marketing Management
+<!-- ## Sales & Marketing Management -->
 
-xxxxxxxx
+<!-- xxxxxxxx -->
