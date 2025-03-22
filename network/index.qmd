@@ -1,5 +1,5 @@
 ---
-title: "My industrial network"
+title: "An integrated industrial network"
 #subtitle: "..."
 title-block-banner: "#5EBEE7"
 title-block-banner-color: body
@@ -29,7 +29,7 @@ freeze: true
 
 # Manufacture of tubular net and technical mesh fabric
 
-[www.taisnet.com](http://www.taisnet.com/) | ***"Net passion"***<br><br>
+[www.taisnet.com](http://www.taisnet.com/) | ***"We follow the net"*** <br><br>
 Specializing in tubular nets made using Raschel warp knitting technology (*"maglieria in catena"*).  
 Supplier of technical fabrics for a wide range of industrial and special applications.
 
@@ -49,7 +49,7 @@ Supplier of technical fabrics for a wide range of industrial and special applica
 
 # Tailor-made netting production
 
-[www.rossettinet.com](http://www.rossettinet.com/)  | ***"We follow the net"***<br><br>
+[www.rossettinet.com](http://www.rossettinet.com/)  | ***"Net passion"*** <br><br>
 <!-- *We follow the net* -->
 A leading company in offering net-based solutions for all needs related to containment, collection, separation, handling, protection, and design — with applications found in both everyday use and industrial processes.
 
@@ -69,7 +69,7 @@ A leading company in offering net-based solutions for all needs related to conta
 
 # Net Saving Project
 
-[www.rossettinet.com](http://www.rossettinet.com/)  | ***"We follow the net"***<br><br>
+[www.rossettinet.com](http://www.rossettinet.com/)  | ***"xxxxxxx"***<br><br>
 <!-- *We follow the net* -->
 Nel’86, depositiamo il primo “brevetto per invenzione industriale”.
 

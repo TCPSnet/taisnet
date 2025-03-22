@@ -34,7 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-17c909d5fd25ae21b861c0c7a49b2096.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c5790b7742bfd878e756ec9dff4b2996.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c7ff313166bdf7887c0863c7db148783.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -159,6 +159,55 @@ gtag('config', 'G-W9H0V3N3EJ', { 'anonymize_ip': true});
 
 
 </main> <!-- /main -->
+<!-- // colors are in theme/davides_theme.scss -->
+
+<div id="cookie-banner" style="position: fixed; bottom: 10px; right: 10px; width: auto; max-width: 300px; background-color: var(--footer-bkg-color); padding: 10px; text-align: center; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); z-index: 1000; border-radius: 5px;">
+  <p style="margin: 0; font-size: 0.8rem; color: var(--body-text-color);">
+    With your consent, we will use cookies to analyze website traffic. You can accept or deny:
+  </p>
+  <div style="margin-top: 10px;">
+    <button id="accept-cookies" style="margin-right: 5px; padding: 5px 10px; background-color: var(--code-color); color: white; border: none; border-radius: 3px; cursor: pointer; font-size: 0.8rem;">
+      Accept
+    </button>
+    <button id="deny-cookies" style="padding: 5px 10px; background-color: var(--link-text-color); color: white; border: none; border-radius: 3px; cursor: pointer; font-size: 0.8rem;">
+      Deny
+    </button>
+  </div>
+</div>
+
+<script>
+  // Function to load Google Analytics
+  function loadGoogleAnalytics() {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'G-W9H0V3N3EJ', 'auto'); // Replace with your tracking ID
+    ga('send', 'pageview');
+  }
+
+  // Handle "Accept" button click
+  document.getElementById('accept-cookies').addEventListener('click', function () {
+    document.getElementById('cookie-banner').style.display = 'none';
+    localStorage.setItem('cookiesAccepted', 'true');
+    loadGoogleAnalytics(); // Load Google Analytics when cookies are accepted
+  });
+
+  // Handle "Deny" button click
+  document.getElementById('deny-cookies').addEventListener('click', function () {
+    document.getElementById('cookie-banner').style.display = 'none';
+    localStorage.setItem('cookiesAccepted', 'false');
+  });
+
+  // Check if cookies have already been accepted or denied
+  if (localStorage.getItem('cookiesAccepted') === 'true') {
+    document.getElementById('cookie-banner').style.display = 'none';
+    loadGoogleAnalytics(); // Automatically load Google Analytics if cookies were previously accepted
+  } else if (localStorage.getItem('cookiesAccepted') === 'false') {
+    document.getElementById('cookie-banner').style.display = 'none';
+  }
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -579,8 +628,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>Made with <i class="fa-brands fa-r-project" aria-label="r-project"></i> and <a href="https://quarto.org/">Quarto</a> <br></p>
-</div>
+      &nbsp;
+    </div>
   </div>
 </footer>
 

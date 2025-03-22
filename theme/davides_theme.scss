@@ -26,6 +26,12 @@ $nav-link-color: #ecfcff;
 $nav-hover-color: #d5dfe5;
 $code-color: #24857a;
 
+:root {
+  --footer-bkg-color: #f3eada;
+  --body-text-color: #122531;
+  --code-color: #24857a;
+  --link-text-color: #A14155;
+}
 
 /*-- scss:rules --*/
 
@@ -52,6 +58,23 @@ $code-color: #24857a;
       color: $nav-hover-color; // Hover text color
       text-decoration: underline;
     }
+  }
+}
+
+/* Custom button style */
+.theme-button {
+  background-color: $code-color; /* Use your theme's code color */
+  color: white; /* Text color */
+  border: none;
+  border-radius: 5px;
+  padding: 8px 16px;
+  font-size: 1rem;
+  cursor: pointer;
+  text-decoration: none; /* Remove underline from link */
+
+  &:hover {
+    color: white; /* Text color */
+    text-decoration: underline;  /* Use your theme's link hover color */
   }
 }
 
@@ -160,4 +183,5 @@ body .about-links .about-link:hover {
   background-color: $background-color; /* Change background color on hover */
   text-decoration: underline;  /* Optional: Add underline on hover */
 }
+
 

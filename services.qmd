@@ -3,7 +3,7 @@ title: "Services I offer"
 #subtitle: "..."
 title-block-banner: "#5EBEE7"
 title-block-banner-color: body
-toc: true
+toc: false
 format: html
   # html: 
   #   page-layout: full
@@ -40,6 +40,13 @@ With 25 years of experience across multiple technical textile applications (Tech
 
 I'm keen to collaborate with companies that value experience, adaptability, and a pragmatic approach to innovation.
 
+<br>
+<!--  Insert email me button  but use theme color -->
+<!-- [Email me](mailto:rossettidav@gmail.com){.theme-button} -->
+
+<a href="mailto:rossettidav@gmail.com" class="theme-button"><i class="fas fa-envelope"></i>&nbsp;&nbsp;&nbsp;Email me</a>
+ <!-- [Email me](mailto:rossettidav@gmail.com){.btn .btn-primary .btn-lg}
+<p> <a id="mail-link" href="mailto:lmm76@georgetown.edu"  class="btn btn-dark"> <i class="fa fa-envelope"></i> &nbsp;&nbsp;Email us</a></p> -->
 <!-- ## Sales & Marketing Management -->
 
 <!-- xxxxxxxx -->
