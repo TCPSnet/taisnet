@@ -105,13 +105,17 @@ $code-color: #24857a;
 // footer
 .nav-footer {
   background-color: $footer-bkg-color;
+  display: flex; /* Enable Flexbox */
+  align-items: center; /* Vertically center items */
+  justify-content: space-between; /* Distribute items evenly */
+  padding: 10px 20px; /* Add some padding for spacing */
+  min-height: 50px; /* Ensure a minimum height for centering */
 
   // Footer text (non-link)
   p {
     color: $body-text-color;
-    //font-size: 14px;
-    //margin: 0;
-    //line-height: 1.6; // Slightly increased line-height for readability
+    margin: 0; /* Remove default margins */
+    line-height: 1.6; /* Slightly increased line-height for readability */
   }
 
   // Footer links

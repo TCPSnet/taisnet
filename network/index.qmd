@@ -1,5 +1,5 @@
 ---
-title: "An integrated industrial network"
+title: "Il network industriale che rappresento"
 #subtitle: "..."
 title-block-banner: "#5EBEE7"
 title-block-banner-color: body
@@ -27,18 +27,17 @@ freeze: true
   </a>
 </div>
 
-# Manufacture of tubular net and technical mesh fabric
+# Produzione di rete tubolare e tessuti tecnici
 
 [www.taisnet.com](http://www.taisnet.com/) | ***"We follow the net"*** <br><br>
-Specializing in tubular nets made using Raschel warp knitting technology (*"maglieria in catena"*).  
-Supplier of technical fabrics for a wide range of industrial and special applications.
+Produzione specializzata di reti tubolari realizzate con tecnologia Raschel ("maglieria in catena").  
+Fornitura di tessuti tecnici ad alte prestazioni per applicazioni industriali, agricole e specialistiche.
 
 :::
 
 ***
 
 :::{.column-page layout="[1,1]" style="float:left;margin-left: auto;"}
-
 
 <div style="text-align: center;">
   <a href="http://www.rossettinet.com/">
@@ -46,12 +45,13 @@ Supplier of technical fabrics for a wide range of industrial and special applica
   </a>
 </div>
 
-
-# Tailor-made netting production
+# Manifattura artigianale di reti
 
 [www.rossettinet.com](http://www.rossettinet.com/)  | ***"Net passion"*** <br><br>
-<!-- *We follow the net* -->
-A leading company in offering net-based solutions for all needs related to containment, collection, separation, handling, protection, and design — with applications found in both everyday use and industrial processes.
+<!-- Azienda leader nelle soluzioni basate su rete per ogni esigenza di contenimento, raccolta, separazione, movimentazione, protezione e design — con applicazioni nell’uso quotidiano e nei processi industriali. -->
+Azienda leader nella produzione su misura di reti per contenimento, raccolta, separazione, movimentazione, protezione e progettazione.  
+Applicazioni trasversali che spaziano dall’uso quotidiano, al design, ai processi industriali, con un approccio adattabile secondo le esigenze tecniche secifiche.
+
 
 :::
 
@@ -59,35 +59,17 @@ A leading company in offering net-based solutions for all needs related to conta
 
 :::{.column-page layout="[1,1]" style="float:left;margin-left: auto;"}
 
-
 <div style="text-align: center;">
   <a href="http://www.nsp.com/">
     <img src="../images/logo_nsp.png" alt="Net passion" style="width:70%;">
   </a>
 </div>
 
-
 # Net Saving Project
 
-[www.rossettinet.com](http://www.rossettinet.com/)  | ***"xxxxxxx"***<br><br>
-<!-- *We follow the net* -->
-Nel’86, depositiamo il primo “brevetto per invenzione industriale”.
+[www.rossettinet.com](http://www.rossettinet.com/)  | ***"Sustainable innovation"***<br><br>
+<!-- Nel 1986 abbiamo depositato il primo **brevetto per invenzione industriale**. -->
+Nel 1986 abbiamo registrato il nostro primo [**brevetto per invenzione industriale**](images/Brevetto_NSP.pdf).  
+Da allora sviluppiamo soluzioni tecniche sostenibili, con un focus su recupero, riuso e innovazione nel settore delle reti.
 
 :::
-
-<!-- :::{.column-page layout="[1,1]" style="float:left;"} -->
-
-<!-- <a href="http://www.taisnet.com/"> -->
-<!-- ![Net passion](../images/logo_tais.png){style="width:90%;"} -->
-<!-- </a> -->
-
-<!-- # Fabbricazione di tubolari in rete e tessuti tecnici -->
-
-<!-- [www.taisnet.com](http://www.taisnet.com/) <br><br> -->
-<!-- **T**ubolari in rete e tessuti tecnici prodotti con la tecnologia della “maglieria in catena” (Raschel). <br> -->
-<!-- **A**pplicazioni <br> -->
-<!-- **I**ndustriali <br> -->
-<!-- **S**peciali -->
-
-<!-- ::: -->
-

@@ -1,0 +1,93 @@
+---
+title: "An integrated industrial network"
+#subtitle: "..."
+title-block-banner: "#5EBEE7"
+title-block-banner-color: body
+toc: false
+format: "html"
+# format: 
+#   html: 
+#     include-after-body: _footer.html
+freeze: true
+---
+
+<style>
+  d-title {
+    display: none;
+  }
+</style>
+
+
+
+:::{.column-page layout="[1,1]"}
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <a href="http://www.taisnet.com/">
+    <img src="../images/logo_tais.png" alt="We follow the net" style="width:100%;">
+  </a>
+</div>
+
+# Manufacture of tubular net and technical mesh fabric
+
+[www.taisnet.com](http://www.taisnet.com/) | ***"We follow the net"*** <br><br>
+Specializing in tubular nets made using Raschel warp knitting technology (*"maglieria in catena"*).  
+Supplier of technical fabrics for a wide range of industrial and special applications.
+
+:::
+
+***
+
+:::{.column-page layout="[1,1]" style="float:left;margin-left: auto;"}
+
+
+<div style="text-align: center;">
+  <a href="http://www.rossettinet.com/">
+    <img src="../images/logo_rossetti.png" alt="Net passion" style="width:70%;">
+  </a>
+</div>
+
+
+# Tailor-made netting production
+
+[www.rossettinet.com](http://www.rossettinet.com/)  | ***"Net passion"*** <br><br>
+<!-- *We follow the net* -->
+A leading company in offering net-based solutions for all needs related to containment, collection, separation, handling, protection, and design — with applications found in both everyday use and industrial processes.
+
+:::
+
+***
+
+:::{.column-page layout="[1,1]" style="float:left;margin-left: auto;"}
+
+
+<div style="text-align: center;">
+  <a href="http://www.nsp.com/">
+    <img src="../images/logo_nsp.png" alt="Net passion" style="width:70%;">
+  </a>
+</div>
+
+
+# Net Saving Project
+
+[www.rossettinet.com](http://www.rossettinet.com/)  | ***"xxxxxxx"***<br><br>
+<!-- *We follow the net* -->
+Nel’86, depositiamo il primo “brevetto per invenzione industriale”.
+
+:::
+
+<!-- :::{.column-page layout="[1,1]" style="float:left;"} -->
+
+<!-- <a href="http://www.taisnet.com/"> -->
+<!-- ![Net passion](../images/logo_tais.png){style="width:90%;"} -->
+<!-- </a> -->
+
+<!-- # Fabbricazione di tubolari in rete e tessuti tecnici -->
+
+<!-- [www.taisnet.com](http://www.taisnet.com/) <br><br> -->
+<!-- **T**ubolari in rete e tessuti tecnici prodotti con la tecnologia della “maglieria in catena” (Raschel). <br> -->
+<!-- **A**pplicazioni <br> -->
+<!-- **I**ndustriali <br> -->
+<!-- **S**peciali -->
+
+<!-- ::: -->
+

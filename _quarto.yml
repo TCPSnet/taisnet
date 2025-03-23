@@ -52,7 +52,7 @@ website:
         text: "Network"
       - href: services.qmd
         icon: people-fill
-        text: "Services"
+        text: "Servizi"
       # - href: news.qmd
       #   text: "News"
 
