@@ -12,7 +12,7 @@ about:
     #   href: https://www.linkedin.com/in/luisa-m-mimmi/  
     - icon: envelope
       text: Email
-      href: mailto:tais@tiscali.it
+      href: mailto:rossettidav@gmail.com
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/davide-rossetti-a13909b/
@@ -42,17 +42,20 @@ toc: false
 ::: {#hero-heading}
 
 :::{style="display: flex; justify-content: center;"} 
-> [Chaos is order yet undeciphered.]{style="color: #2D5D7B; font-size:1.2em; font-weight: bold; font-style: italic; text-align: left;"}
+> [Chaos is order yet undeciphered.]{style="color: #2D5D7B; font-size:1.2em; font-weight: bold; font-style: italic; text-align: left;"}\
+[José de Sousa Saramago]
 
 :::
 
-Sono un imprenditore originario di Chioggia, in Veneto, dove la mia famiglia ha una tradizione di eccellenza nella manifattura di reti e attrezzature per la pesca sportiva. Ora vivo e lavoro a Pavia, vicino a Milano, insieme alla mia famiglia.
+Sono un artigiano veneto originario di Chioggia, tramanda, dal 1920, una [tradizione](www.rossettinet.com/nsp) fatta di passione ed eccellenza nella manifattura di reti e attrezzature per la pesca sportiva, professionale e l’acquacoltura.
 
-Da 25 anni mi occupo della produzione di reti e di tessuti tecnici per l’industria, l’acquacoltura e l’agricoltura. Nel tempo, ho costruito una rete solida di relazioni con clienti, fornitori e partner, in Italia e in Europa — [**qui**](https://daviderossetti.net/network/) maggiori dettagli sulla rete industriale con cui opero. 
+Nel 2001 sono diventato anche tessitore *"friulano d'adozione"* in seguito all'acquisizione, nel settembre 2001, di una storica [realtà industriale](http://www.taisnet.com/) udinese specializzata nella produzione di tessuti a maglia in catena (Raschel).
 
-Oltre alla passione per il mio lavoro, sono da sempre uno sportivo, grande appassionato di mare e di montagna, e un amante della musica.  
+Dal 2016 vivo in Lombardia, vicino a Milano, dove ho trasferito la mia base operativa nel distretto tessile Varese-Brianza. Da qui mi occupo di progettazione, produzione e commercializzazione di tessuti tecnici per applicazioni industriali, supportato da una rete solida di relazioni costruita nel tempo con clienti, fornitori e partner.
 
-[Cerco nuove opportunità di collaborazione in [**ruoli**](https://daviderossetti.net/services) manageriali o commerciali.]{style="color: #009ff5; font-weight: bold; height:75%"}
+Nel tempo libero, coltivo la mia passione per lo sport, che considero una fonte costante di energia e disciplina.
+
+[Sono aperto a opportunità di collaborazione nel mio settore in [**ruoli**](https://daviderossetti.net/services) manageriali o commerciali.]{style="color: #009ff5; font-weight: bold; height:75%"}
 <!-- Se stai cercando un partner esperto, un consulente o un relatore, scrivimi: sarò felice di parlarne. --><!-- Se vuoi propormi una collaborazione, una consulenza o un intervento, scrivimi un messaggio: -->
 
 :::

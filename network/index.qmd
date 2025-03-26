@@ -18,6 +18,10 @@ freeze: true
 </style>
 
 
+<!-- Sostituire il logo con "loghi-storia" -->
+<!-- Nuovo testo di presentazione dell'azienda (dopo ns incontro) -->
+<!-- Foto impianto /telaio tessile + Racconto x immagini di acronimo TAIS -->
+<!-- Collezione suddivisa per "applicazioni industriali" (classificazione Techtextil) -->
 
 :::{.column-page layout="[1,1]"}
 
@@ -28,7 +32,6 @@ freeze: true
 </div>
 
 # Produzione di rete tubolare e tessuti tecnici
-
 [www.taisnet.com](http://www.taisnet.com/) | ***"We follow the net"*** <br><br>
 Produzione specializzata di reti tubolari realizzate con tecnologia Raschel ("maglieria in catena").  
 Fornitura di tessuti tecnici ad alte prestazioni per applicazioni industriali, agricole e specialistiche.
@@ -36,6 +39,8 @@ Fornitura di tessuti tecnici ad alte prestazioni per applicazioni industriali, a
 :::
 
 ***
+<!-- Nuovo testo di presentazione dell'azienda e del progetto NSP (dopo ns incontro) -->
+<!-- Applicazioni /progetti /realizzazioni (ABB +Remtech Application +VolleyBall +Crab +CostalDefence...) -->
 
 :::{.column-page layout="[1,1]" style="float:left;margin-left: auto;"}
 
@@ -56,18 +61,19 @@ Applicazioni trasversali che spaziano dall’uso quotidiano, al design, ai proce
 :::
 
 ***
+<!-- Nuovo testo di presentazione dell'azienda e del progetto NSP (dopo ns incontro) -->
 
 :::{.column-page layout="[1,1]" style="float:left;margin-left: auto;"}
 
 <div style="text-align: center;">
-  <a href="http://www.nsp.com/">
+  <a href="http://www.rossettinet.com/nsp">
     <img src="../images/logo_nsp.png" alt="Net passion" style="width:70%;">
   </a>
 </div>
 
 # Net Saving Project
 
-[www.rossettinet.com](http://www.rossettinet.com/)  | ***"Sustainable innovation"***<br><br>
+[www.rossettinet.com](http://www.rossettinet.com/nsp)  | ***"Net Saving Project"***<br><br>
 <!-- Nel 1986 abbiamo depositato il primo **brevetto per invenzione industriale**. -->
 Nel 1986 abbiamo registrato il nostro primo [**brevetto per invenzione industriale**](images/Brevetto_NSP.pdf).  
 Da allora sviluppiamo soluzioni tecniche sostenibili, con un focus su recupero, riuso e innovazione nel settore delle reti.

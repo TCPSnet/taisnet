@@ -12,7 +12,7 @@ about:
     #   href: https://www.linkedin.com/in/luisa-m-mimmi/  
     - icon: envelope
       text: Email
-      href: mailto:tais@tiscali.it
+      href: mailto:rossettidav@gmail.com
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/davide-rossetti-a13909b/
