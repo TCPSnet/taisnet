@@ -42,12 +42,11 @@ toc: false
 ::: {#hero-heading}
 
 :::{style="display: flex; justify-content: center;"} 
-> [Chaos is order yet undeciphered.]{style="color: #2D5D7B; font-size:1.2em; font-weight: bold; font-style: italic; text-align: left;"}\
-[José de Sousa Saramago]
+> [Chaos is order yet undeciphered]{style="color: #2D5D7B; font-size:1.2em; font-weight: bold; font-style: italic; text-align: left;"} [José de Sousa Saramago]
 
 :::
 
-Sono un artigiano veneto originario di Chioggia, tramanda, dal 1920, una [tradizione](www.rossettinet.com/nsp) fatta di passione ed eccellenza nella manifattura di reti e attrezzature per la pesca sportiva, professionale e l’acquacoltura.
+Sono un artigiano veneto originario di Chioggia, dove la mia famiglia tramanda dal 1920 una [tradizione](www.rossettinet.com/nsp) fatta di passione ed eccellenza nella manifattura di reti e attrezzature per la pesca sportiva, professionale e l’acquacoltura.
 
 Nel 2001 sono diventato anche tessitore *"friulano d'adozione"* in seguito all'acquisizione, nel settembre 2001, di una storica [realtà industriale](http://www.taisnet.com/) udinese specializzata nella produzione di tessuti a maglia in catena (Raschel).
 
