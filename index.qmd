@@ -1,24 +1,24 @@
 ---
 resources:
-  - images/resume_nofoto.pdf
+  - images/rete.jpg
 title: ""
 about:
   id: hero-heading #about-block 
-  template: trestles # jolla
-  image: images/surfer.jpg
-  links:
-    # - icon: file-pdf
-    #   text: CV (tbd)
-    #   href: https://www.linkedin.com/in/luisa-m-mimmi/  
-    - icon: envelope
-      text: Email
-      href: mailto:rossettidav@gmail.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/davide-rossetti-a13909b/
-    - icon: file-pdf
-      text: CV
-      href: images/resume_nofoto.pdf         
+  template: jolla # jolla
+  image: images/TAIS.png
+  # links:
+  #   # - icon: file-pdf
+  #   #   text: CV (tbd)
+  #   #   href: https://www.linkedin.com/in/luisa-m-mimmi/  
+  #   - icon: envelope
+  #     text: Email
+  #     href: mailto:rossettidav@gmail.com
+  #   - icon: linkedin
+  #     text: LinkedIn
+  #     href: https://www.linkedin.com/in/davide-rossetti-a13909b/
+  #   - icon: file-pdf
+  #     text: CV
+  #     href: images/resume_nofoto.pdf         
     # - text: "{{< fa brands google-scholar >}} Google Scholar"
     # - text: "{{< ai google-scholar >}} Google Scholar"
     #   href: https://scholar.google.com/citations?user=OBYla5gAAAAJ&hl=en&oi=ao
@@ -39,23 +39,3 @@ toc: false
 <!-- + https://albert-rapp.de/ -->
 <!-- https://tanyaviz.com/about/ -->
 
-::: {#hero-heading}
-
-:::{style="display: flex; justify-content: center;"} 
-> [Chaos is order yet undeciphered]{style="color: #2D5D7B; font-size:1.2em; font-weight: bold; font-style: italic; text-align: left;"}\
-[José de Sousa Saramago]
-
-:::
-
-Sono un imprenditore veneto originario di Chioggia, dove la mia famiglia tramanda dal 1920 una [**tradizione artigiana**](www.rossettinet.com/nsp) fatta di passione ed eccellenza nella manifattura di reti e attrezzature per la pesca sportiva, professionale e l’acquacoltura.
-
-Nel settembre 2001 ho iniziato una nuova avventura come tessitore *"friulano d'adozione"*, in seguito all'acquisizione di una storica [**realtà industriale**](http://www.taisnet.com/) udinese specializzata nella produzione di tessuti a maglia in catena (Raschel).
-
-Dal 2016 vivo in Lombardia, vicino a Milano, dove ho trasferito la mia base operativa nel distretto tessile Varese-Brianza. Da qui mi occupo di progettazione, produzione e commercializzazione di tessuti tecnici per applicazioni industriali, supportato da una rete solida di relazioni costruita nel tempo con clienti, fornitori e partner.
-
-Nel tempo libero, coltivo la mia passione per lo sport, che considero una fonte preziosa di energia e disciplina, ma anche un efficace strumento educativo per i giovani. Con questo spirito, nel 1995, ho fondato insieme ad alcuni amici l’associazione [_SpinOut_](https://www.spinoutasd.com) per la promozione degli sport _"radicali"_.
-
-[Sono aperto a opportunità di collaborazione nel mio settore in [**ruoli**](https://daviderossetti.net/services) manageriali o commerciali.]{style="color: #009ff5; font-weight: bold; height:75%"}
-<!-- Se stai cercando un partner esperto, un consulente o un relatore, scrivimi: sarò felice di parlarne. --><!-- Se vuoi propormi una collaborazione, una consulenza o un intervento, scrivimi un messaggio: -->
-
-:::
