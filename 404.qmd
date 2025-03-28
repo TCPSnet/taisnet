@@ -1,11 +1,9 @@
 ---
-title: "Pagina in costruzione"
+title: "Il link verrà presto aggiornato"
 format: html
 page-layout: custom
+toc: false
 ---
-
-
-### _Il link verrà presto aggiornato._
 
 ![](images/coming_soon.png)
 
