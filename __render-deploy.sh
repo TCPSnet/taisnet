@@ -27,7 +27,7 @@ git add images/*
 
 # --- git commit
 # git commit -m "playing wiht scss theme 🎨"
-git commit -m "now in ita "
+git commit -m "correz DAvide "
 
 # --- git push
 git push origin master
@@ -36,7 +36,7 @@ git push origin master
 git commit -m "playing wiht scss theme 🎨 2" && git push origin master
 
 # --- git add u + commit + push
-git add -A && git commit -a -m "small theme 🎨 rev" && git push origin master
+git add -u && git commit -a -m "small  rev" && git push origin master
 
 
 

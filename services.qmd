@@ -1,5 +1,5 @@
 ---
-title: "_Share experience for common growth_"
+title: "I servizi che offro"
 #subtitle: "..."
 title-block-banner: "#5EBEE7"
 title-block-banner-color: body
@@ -24,7 +24,7 @@ freeze: true
 
 <!-- Negli ultimi 25 anni, ho acquisito esperienze nei settori di applicazione dei tessuti tecnici (classificazione Techtextil). Provengo dal mondo della pesca (professionale e sportiva), dell’acquacoltura e della nautica (diporto e cantieristica). -->
 
-## Temporary Sales Manager
+## _Temporary Sales Manager_
 
 Valuto con interesse incarichi temporanei o collaborazioni su progetti mirati, con cui affiancare i team in modo da fornire un supporto operativo in piena continuità operativa e rispetto delle dinamiche aziendali già attive.
 

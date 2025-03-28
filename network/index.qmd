@@ -1,5 +1,5 @@
 ---
-title: "Il network industriale che rappresento"
+title: "La rete manufatturiera che rappresento"
 #subtitle: "..."
 title-block-banner: "#5EBEE7"
 title-block-banner-color: body
@@ -66,14 +66,14 @@ Applicazioni trasversali che spaziano dall’uso quotidiano, al design, ai proce
 :::{.column-page layout="[1,1]" style="float:left;margin-left: auto;"}
 
 <div style="text-align: center;">
-  <a href="http://www.rossettinet.com/nsp">
+  <a href="404.html">
     <img src="../images/logo_nsp.png" alt="Net passion" style="width:70%;">
   </a>
 </div>
 
 # Net Saving Project
 
-[www.rossettinet.com](http://www.rossettinet.com/nsp)  | ***"Net Saving Project"***<br><br>
+[www.rossettinet.com](404.html)  | ***"Net Saving Project"***<br><br>
 <!-- Nel 1986 abbiamo depositato il primo **brevetto per invenzione industriale**. -->
 Nel 1986 abbiamo registrato il nostro primo [**brevetto per invenzione industriale**](images/Brevetto_NSP.pdf).  
 Da allora sviluppiamo soluzioni tecniche sostenibili, con un focus su recupero, riuso e innovazione nel settore delle reti.

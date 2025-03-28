@@ -1,0 +1,12 @@
+---
+title: "Pagina in costruzione"
+format: html
+page-layout: custom
+---
+
+
+### _Il link verrà presto aggiornato._
+
+![](images/coming_soon.png)
+
+Torna alla [home page](/)

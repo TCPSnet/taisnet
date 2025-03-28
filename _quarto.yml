@@ -48,15 +48,13 @@ website:
       #   icon: house-door-fill
       #   text: "Home"
       - href: network/index.qmd
-        icon: globe
-        text: "Network"
+        icon: tools
+        text: "Prodotti"
       - href: services.qmd
         icon: people-fill
-        text: "Temporary Sales Manager"
+        text: "Servizi"
       # - href: news.qmd
       #   text: "News"
-
-
 
 format:
   html:
