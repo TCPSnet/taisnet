@@ -27,7 +27,7 @@ freeze: true
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <a href="http://www.taisnet.com/">
-    <img src="../images/logo_tais.png" alt="We follow the net" style="width:100%;">
+    <img src="../images/logo_tais_storia.png" alt="We follow the net" style="width:100%;">
   </a>
 </div>
 
@@ -73,7 +73,7 @@ Applicazioni trasversali che spaziano dall’uso quotidiano, al design, ai proce
 
 # Net Saving Project
 
-[www.rossettinet.com](404.html)  | ***"Net Saving Project"***<br><br>
+[www.nsp.com](404.html)  | ***"Net Saving Project"***<br><br>
 <!-- Nel 1986 abbiamo depositato il primo **brevetto per invenzione industriale**. -->
 Nel 1986 abbiamo registrato il nostro primo [**brevetto per invenzione industriale**](images/Brevetto_NSP.pdf).  
 Da allora sviluppiamo soluzioni tecniche sostenibili, con un focus su recupero, riuso e innovazione nel settore delle reti.
