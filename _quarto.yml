@@ -19,7 +19,7 @@ website:
   #   language: en
   title: "Tais"
   description: "Website of Tais company"
-  site-url: "https://taisnet.com"
+  site-url: "https://github.com/TCPSnet/taisnet"
   repo-url: "https://github.com/TCPSnet/taisnet"
 #  repo-actions: [edit, issue]
   favicon: images/net2.png

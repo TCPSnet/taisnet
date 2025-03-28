@@ -1,1 +1,1 @@
-Sitemap: https://taisnet.com/sitemap.xml
+Sitemap: https://github.com/TCPSnet/taisnet/sitemap.xml
